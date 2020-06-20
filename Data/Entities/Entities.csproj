@@ -61,12 +61,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
-  <ItemGroup>
-    <Content Include="Entities\StoreModel.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>StoreModel1.cs</LastGenOutput>
-    </Content>
-  </ItemGroup>
+  
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
