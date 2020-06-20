@@ -51,7 +51,7 @@
     <Compile Include="Entities\QuantitesOfProduct.cs" />
     <Compile Include="Entities\Sale.cs" />
     <Compile Include="Entities\Stock.cs" />
-    <Compile Include="Entities\StoreModel.cs" />
+    
     <Compile Include="Entities\StoreModel1.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
